@@ -1,0 +1,2 @@
+class EventStudent < ApplicationRecord
+end

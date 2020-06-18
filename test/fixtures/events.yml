@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  status: false
+  display_order: 1
+
+  display_from: 2020-06-08
+  display_to: 2020-06-08
+
+  summary_html: MyText
+  content_html: MyText
+  held_year: 1
+
+two:
+  name: MyString
+  status: false
+  display_order: 1
+
+  display_from: 2020-06-08
+  display_to: 2020-06-08
+
+  summary_html: MyText
+  content_html: MyText
+  held_year: 1

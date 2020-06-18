@@ -1,0 +1,25 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  status: false
+  start_date: 2020-06-08 06:18:18
+  end_date: 2020-06-08 06:18:18
+  participation_limit_student: 1
+  participation_limit_company: 1
+  comment: MyString
+  venue_area: 1
+  venue_no: 1
+  venue_detail: MyString
+
+two:
+  name: MyString
+  status: false
+  start_date: 2020-06-08 06:18:18
+  end_date: 2020-06-08 06:18:18
+  participation_limit_student: 1
+  participation_limit_company: 1
+  comment: MyString
+  venue_area: 1
+  venue_no: 1
+  venue_detail: MyString

@@ -1,0 +1,77 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  status: 1
+  email1: MyString
+  encrypted_password: MyString
+  temp_registration_date: 2020-06-08 06:26:41
+  first_name: MyString
+  last_name: MyString
+  first_name_kana: MyString
+  last_name_lana: MyString
+  main_registration_date: 2020-06-08 06:26:41
+  email2: MyString
+  postal_code: MyString
+  prefectures_code: 1
+  address1: MyString
+  address2: MyString
+  tel_main: MyString
+  tel_sub: MyString
+  sex: 1
+  school_type: 1
+  school_name: MyString
+  department_name: MyString
+  faculty_type: 1
+  graduation_date: 1
+  desired_work_region_code: 1
+  club_flg: false
+  school_club_name: MyString
+  school_club_type: 1
+  club_name: MyString
+  lab_name: MyString
+  major_field: MyString
+  research_subject_title: MyString
+  research_subject_summary: MyText
+  interested_companies: MyText
+  personal_summary: MyText
+  how_known: 1
+  how_known_other: MyString
+  mail_magazine_flg: false
+
+two:
+  status: 1
+  email1: MyString
+  encrypted_password: MyString
+  temp_registration_date: 2020-06-08 06:26:41
+  first_name: MyString
+  last_name: MyString
+  first_name_kana: MyString
+  last_name_lana: MyString
+  main_registration_date: 2020-06-08 06:26:41
+  email2: MyString
+  postal_code: MyString
+  prefectures_code: 1
+  address1: MyString
+  address2: MyString
+  tel_main: MyString
+  tel_sub: MyString
+  sex: 1
+  school_type: 1
+  school_name: MyString
+  department_name: MyString
+  faculty_type: 1
+  graduation_date: 1
+  desired_work_region_code: 1
+  club_flg: false
+  school_club_name: MyString
+  school_club_type: 1
+  club_name: MyString
+  lab_name: MyString
+  major_field: MyString
+  research_subject_title: MyString
+  research_subject_summary: MyText
+  interested_companies: MyText
+  personal_summary: MyText
+  how_known: 1
+  how_known_other: MyString
+  mail_magazine_flg: false

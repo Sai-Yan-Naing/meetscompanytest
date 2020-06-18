@@ -1,0 +1,75 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  email: MyString
+  password_digest: MyString
+  status: MyString
+  ceo_name: MyString
+  postal_code: MyString
+  address: MyString
+  tel: MyString
+  fax: MyString
+  url: MyString
+  img_main: MyString
+  staff_name: MyString
+  staff_name_kana: MyString
+  staff_emails: MyString
+
+  public_flg_student: false
+  ad_flg: false
+  publish_flg_contact: MyText
+  business_content: MyText
+
+  business_img1: MyString
+  business_img2: MyString
+  charm: MyText
+  cherm_img1: MyString
+  charm_img2: MyString
+  company_data: MyText
+  contact: MyText
+  qualification: 1
+  recruitment_type: MyString
+  recuitment_industry: 1
+  recuritment_occapation: 1
+  recuritment_prefectures: 1
+  ideal_candidate_profile: MyText
+  recuritment_data: MyText
+  featured_companies: false
+
+two:
+  name: MyString
+  email: MyString
+  password_digest: MyString
+  status: MyString
+  ceo_name: MyString
+  postal_code: MyString
+  address: MyString
+  tel: MyString
+  fax: MyString
+  url: MyString
+  img_main: MyString
+  staff_name: MyString
+  staff_name_kana: MyString
+  staff_emails: MyString
+
+  public_flg_student: false
+  ad_flg: false
+  publish_flg_contact: MyText
+  business_content: MyText
+
+  business_img1: MyString
+  business_img2: MyString
+  charm: MyText
+  cherm_img1: MyString
+  charm_img2: MyString
+  company_data: MyText
+  contact: MyText
+  qualification: 1
+  recruitment_type: MyString
+  recuitment_industry: 1
+  recuritment_occapation: 1
+  recuritment_prefectures: 1
+  ideal_candidate_profile: MyText
+  recuritment_data: MyText
+  featured_companies: false
